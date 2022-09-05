@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/drawable-v24/shadow_circle.xml" value="0.2085" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/drawable/black_click_selector.xml" value="0.2085" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/drawable/bottom_corners.xml" value="0.2085" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/drawable/bottom_history.xml" value="0.198" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/drawable/bottom_navi_selected.xml" value="0.2155" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/drawable/button_blue.xml" value="0.2085" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/drawable/button_green.xml" value="0.2085" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/drawable/button_red.xml" value="0.2085" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/drawable/button_style.xml" value="0.2085" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/drawable/button_white.xml" value="0.2085" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/drawable/shadow_bottom.xml" value="0.198" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/drawable/shadow_card.xml" value="0.198" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/drawable/shadow_card_dark.xml" value="0.2085" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/drawable/shadow_rect.xml" value="0.2085" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/drawable/shadow_top.xml" value="0.1" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/drawable/shadow_zhi_bottom.xml" value="0.198" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/drawable/shape_header.xml" value="0.2085" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/drawable/slidelock_bg.xml" value="0.1" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/drawable/verification_edit_bg_focus.xml" value="0.2085" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/drawable/verification_edit_bg_normal.xml" value="0.2085" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/layout/activity_fullscreen.xml" value="0.3333333333333333" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/layout/activity_gao_de_motion.xml" value="0.4078125" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/layout/activity_gaode_detail.xml" value="0.4078125" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/layout/activity_gaode_index.xml" value="0.4078125" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/layout/activity_history.xml" value="0.3786231884057971" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/layout/activity_history_detal.xml" value="0.3786231884057971" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/layout/activity_login.xml" value="0.4078125" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/layout/activity_order.xml" value="0.3333333333333333" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/layout/activity_yu_yue.xml" value="0.3342391304347826" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/layout/begin_end_pos.xml" value="0.4078125" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/layout/content_order.xml" value="0.4078125" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/layout/fragment_first.xml" value="0.35144927536231885" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/layout/fragment_second.xml" value="0.35144927536231885" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/layout/history_item.xml" value="0.3786231884057971" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/layout/phone_dialog.xml" value="0.35144927536231885" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/layout/search_item.xml" value="0.4078125" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/layout/slider.xml" value="0.4078125" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/layout/toast_custom.xml" value="0.35144927536231885" />
+        <entry key="..\:/Android/AndroidPorjects/driver/app/src/main/res/xml/number.xml" value="0.35144927536231885" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

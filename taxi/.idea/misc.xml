@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2585" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable-v24/verification_edit_bg_focus.xml" value="0.2185" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/back_arrow.xml" value="0.1325" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/black_click_selector.xml" value="0.251" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/border.xml" value="0.2185" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/bottom_corners.xml" value="0.188" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/bottom_navi_selected.xml" value="0.188" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/button_green.xml" value="0.407" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/button_style.xml" value="0.2105" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/button_white.xml" value="0.2185" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/custom_edit_text.xml" value="0.251" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/full_corners.xml" value="0.249" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/g.xml" value="0.2185" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/green_point.xml" value="0.2535" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/ic_baseline_keyboard_arrow_up_24.xml" value="0.2535" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.2585" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.2585" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2585" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2105" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.2535" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/miaobian.xml" value="0.2185" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/orange_point.xml" value="0.2535" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/purple_gradient.xml" value="0.188" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/purple_gradient_45.xml" value="0.188" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/qianhui_shadow.xml" value="0.2185" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/red_point.xml" value="0.194" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/right_arrow.xml" value="0.2535" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/right_line.xml" value="0.152" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/shadow_bottom.xml" value="0.1965" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/shadow_card.xml" value="0.1325" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/shadow_card_dark.xml" value="0.2185" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/shadow_circle.xml" value="0.2185" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/shadow_od_card.xml" value="0.22" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/shadow_rect.xml" value="0.2185" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/shadow_top.xml" value="0.2105" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/shadow_zhi_bottom.xml" value="0.2185" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/shape.xml" value="0.2375" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/shape_left.xml" value="0.1325" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/shape_right.xml" value="0.1325" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/shape_textcursor.xml" value="0.251" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/top_corners.xml" value="0.188" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/top_cornes.xml" value="0.188" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/drawable/verification_edit_bg_focus.xml" value="0.2185" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout-w1240dp/activity_gao_de_motion.xml" value="0.17302543507362783" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout-w1240dp/activity_gaode_detail.xml" value="0.2620481927710843" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout-w1240dp/activity_gaode_index.xml" value="0.19477911646586346" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.2620481927710843" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout-w1240dp/activity_main.xml" value="0.17302543507362783" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout-w1240dp/item_layout.xml" value="0.2620481927710843" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout-w936dp/activity_login.xml" value="0.305859375" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout/activity_call.xml" value="0.375" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout/activity_gao_de_motion.xml" value="0.4078125" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout/activity_gaode_detail.xml" value="0.4078125" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout/activity_gaode_index.xml" value="0.22" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout/activity_history_detail.xml" value="0.40729166666666666" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout/activity_login.xml" value="0.3333333333333333" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout/activity_main.xml" value="0.27717391304347827" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout/activity_register.xml" value="0.4078125" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout/activity_rigister_driver.xml" value="0.40729166666666666" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout/activity_search.xml" value="0.328804347826087" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout/activity_search_poi.xml" value="0.4078125" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout/activity_yu_yue.xml" value="0.35104166666666664" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout/begin_end_pos.xml" value="0.4078125" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout/car_item.xml" value="0.3745471014492754" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout/content_call.xml" value="0.375" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout/distance_time.xml" value="0.4466666666666667" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout/fragment_dashboard.xml" value="0.2866847826086957" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout/fragment_first.xml" value="0.375" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout/fragment_home.xml" value="0.3333333333333333" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout/fragment_notifications.xml" value="0.3333333333333333" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout/fragment_second.xml" value="0.3578125" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout/fukuan_view.xml" value="0.37771739130434784" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout/history_item.xml" value="0.3333333333333333" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout/place_item.xml" value="0.5" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout/pop_up.xml" value="0.3686594202898551" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout/search_header_layout.xml" value="0.4078125" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout/search_item.xml" value="0.40677083333333336" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout/search_result_item.xml" value="0.4078125" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/layout/toast_custom.xml" value="0.4762773722627737" />
+        <entry key="..\:/Android/AndroidPorjects/taxi/app/src/main/res/menu/bottom_nav_menu.xml" value="0.4078125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.3333333333333333" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

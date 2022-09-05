@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <com.catiger.driver.util.SlideLockView
+            android:id="@+id/slide_rail"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:background="@drawable/slidelock_bg">
+            <!--滑动部 件在自定义View中滑动的块块 -->
+            <ImageView
+                android:id="@+id/lock_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/slide_lock_button" />
+        </com.catiger.driver.util.SlideLockView>
+    </FrameLayout>
+
+
+    <!--    <com.catiger.driver.util.SlideRightViewDragHelper-->
+    <!--    android:id="@+id/sdh_slideview"-->
+
+    <!--    android:layout_width="match_parent"-->
+    <!--    android:layout_height="match_parent">-->
+
+    <!--    <RelativeLayout-->
+    <!--        android:id="@+id/rl_slideBackground"-->
+    <!--        android:background="@color/colorAccent"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="match_parent">-->
+    <!--        <ImageView-->
+    <!--            android:layout_centerVertical="true"-->
+    <!--            android:src="@drawable/user"-->
+    <!--            android:layout_width="39dp"-->
+    <!--            android:layout_height="39dp"/>-->
+
+    <!--    </RelativeLayout>-->
+    <!--</com.catiger.driver.util.SlideRightViewDragHelper>-->
+</androidx.constraintlayout.widget.ConstraintLayout>

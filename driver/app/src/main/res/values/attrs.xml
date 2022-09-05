@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FullscreenAttrs">
+        <attr name="fullscreenBackgroundColor" format="color" />
+        <attr name="fullscreenTextColor" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="BottomSheetBehavior_Layout">
+        <attr name="behavior_peekHeight" format="dimension" />
+        <attr name="behavior_hideAble" format="boolean" />
+        <attr name="behavior_skipCollapse" format="dimension" />
+        <attr name="behavior_middleHeight" format="dimension" />
+        <attr name="behavior_fitToContents" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="SlideUnlockButton">
+        <!-- 开关背景图片的属性, 引用的是R.drawable.xx. -->
+        <attr name="slideUnlockBackgroundResource" format="reference" />
+        <!-- 开关滑动块图片的属性, 引用的是R.drawable.xx. -->
+        <attr name="slideUnlockBlockResource" format="reference" />
+        <!-- 开关当前的状态的属性, true 打开, false 关闭 -->
+        <attr name="unLockState" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="PasswordInputView">
+        <attr name="borderWidth" format="dimension"/>
+        <attr name="borderColor" format="color"/>
+        <attr name="borderRadius" format="dimension"/>
+        <attr name="passwordLength" format="integer"/>
+        <attr name="passwordWidth" format="dimension"/>
+        <attr name="passwordColor" format="color"/>
+        <attr name="passwordRadius" format="dimension"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">嘟嘟打车</string>
+    <string name="title_home">嘟嘟</string>
+    <string name="title_dashboard">订单</string>
+    <string name="title_notifications">我的</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">登录</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">号码无效</string>
+    <string name="invalid_password">密码长度须大于5</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_call">CallActivity</string>
+    <string name="poem_chu_xing">随遇迁居尽故乡，神州自在醉徜徉</string>
+    <string name="hello">嗨，欢迎回来</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="title_activity_gao_de_index">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
