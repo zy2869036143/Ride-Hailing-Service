@@ -29,7 +29,6 @@ import java.util.concurrent.ConcurrentHashMap;
 
 @RestController
 public class AssignController {
-    // https://restapi.amap.com/v3/direction/driving?origin=116.45925,39.910031&destination=116.587922,40.081577&output=json&key=befb1227eb67ffaf2ab74c9ee2faf772
     @Autowired
     private SpringWebSocketHandler springWebSocketHandler;
     @Autowired
