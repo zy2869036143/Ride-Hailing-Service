@@ -13,10 +13,10 @@ import java.text.DecimalFormat;
 @Component
 public class HttpUtil {
 
-    private static String url = "https://restapi.amap.com/v3/direction/driving?origin=116.45925,39.910031&destination=116.587922,40.081577&output=json&key=befb1227eb67ffaf2ab74c9ee2faf772";
+    private static String url = "https://restapi.amap.com/v3/direction/driving?origin=116.45925,39.910031&destination=116.587922,40.081577&output=json&key=your_own_gaode_apikey";
     private static String pre = "https://restapi.amap.com/v3/direction/driving?origin=";
     private static String mid = "&destination=";
-    private static String end = "&output=json&key=befb1227eb67ffaf2ab74c9ee2faf772";
+    private static String end = "&output=json&key=your_own_gaode_apikey";
     public double[] getDistanceAnd(double olon, double olat, double dlon, double dlat) {
         String result = null;
         String url = pre + olon + "," + olat + mid + dlon + "," + dlat + end;
